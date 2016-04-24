@@ -1,8 +1,12 @@
-parties
+SpaceTagUrA
 =======
 
-Meteor Parties example upgraded
+Meteor SpaceTagUrA for SpaceAppsChallenge 2016
 - uses github login
+- uses facebook login
 - uses Leaflet map
+- uses twitter login
+
+
 
 
